@@ -6,17 +6,17 @@
 # 🎓 EDUCATION
 <details>
   <summary>
-    **Tashkent University of Information Technologies (TUIT)**
+    <b>Tashkent University of Information Technologies (TUIT)</b>
   </summary>
-  **Faculty:** Bachelor's in faculty of computer engineering (09/2014 – 06/2018)
-
+  
+  **Faculty:** Bachelor's in faculty of computer engineering (09/2014 – 06/2018)<br>
   **Address:** Tashkent, Uzbekistan
 </details>
 <details>
   <summary>
-    **Belarusian State University of Informatics and Radioelectronics (BSUIR)**
+    <b>Belarusian State University of Informatics and Radioelectronics (BSUIR)</b>
   </summary>
-  **Faculty:** Master's degree in faculty of computer-aided design (09/2018 – Present)
-
+  
+  **Faculty:** Master's degree in faculty of computer-aided design (09/2018 – Present)<br>
   **Address:** Minsk, Belarus
 </details>
