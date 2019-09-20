@@ -4,19 +4,23 @@
 ----
 
 # 🎓 EDUCATION
-<details>
-  <summary>
-    <b>Tashkent University of Information Technologies (TUIT)</b>
-  </summary>
+- **Tashkent University of Information Technologies (TUIT)**
+  - **Faculty:** Bachelor's in faculty of computer engineering (09/2014 – 06/2018)
+  - **Address:** Tashkent, Uzbekistan
   
-  **Faculty:** Bachelor's in faculty of computer engineering (09/2014 – 06/2018)<br>
-  **Address:** Tashkent, Uzbekistan
-</details>
-<details>
-  <summary>
-    <b>Belarusian State University of Informatics and Radioelectronics (BSUIR)</b>
-  </summary>
-  
-  **Faculty:** Master's degree in faculty of computer-aided design (09/2018 – Present)<br>
-  **Address:** Minsk, Belarus
-</details>
+- **Belarusian State University of Informatics and Radioelectronics (BSUIR)**
+  - **Faculty:** Master's degree in faculty of computer-aided design (09/2018 – Present)
+  - **Address:** Minsk, Belarus
+
+----
+
+# 🏅 CERTIFICATES
+["Young programmers" (final qualifying 2010)](https://ibb.co/7zKsbF1)
+
+[ACM (Quarter-finals) (2014 – 2015)](https://ibb.co/GPF6R4q)
+
+[ACM (Quarter-finals) (2015 – 2016)](https://ibb.co/Ntxz89f)
+
+[Most active students in TUIT (2016)](https://ibb.co/SynWBM8)
+
+----
