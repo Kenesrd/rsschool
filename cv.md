@@ -1,10 +1,10 @@
 # ℹ️ Abdukhalilov Bobir
 |    |Contacts|
 |----|----|
-|![image (copy)](https://user-images.githubusercontent.com/38331113/65333571-6cb19e80-dbc9-11e9-8fd7-a1386d9a1248.png)|📞 +375-25-528-87-00 /<br> ✉️ destbest94@gmail.com /<br> 👁‍🗨 [GitHub](https://github.com/destbest94/) /<br> 📢 [Facebook](https://facebook.com/bobur.abduxalilov.1)|
+|das|📞 +375-25-528-87-00 /<br> ✉️ destbest94@gmail.com /<br> 👁‍🗨 [GitHub](https://github.com/destbest94/) /<br> 📢 [Facebook](https://facebook.com/bobur.abduxalilov.1)|
 
 ----
-
+![image (copy)](https://user-images.githubusercontent.com/38331113/65333571-6cb19e80-dbc9-11e9-8fd7-a1386d9a1248.png)
 # 🎓 EDUCATION
 - **Tashkent University of Information Technologies (TUIT)**
   - **Faculty:** Bachelor's in faculty of computer engineering (09/2014 – 06/2018)
