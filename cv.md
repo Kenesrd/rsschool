@@ -15,12 +15,31 @@
 ----
 
 # 🏅 CERTIFICATES
-["Young programmers" (final qualifying 2010)](https://ibb.co/7zKsbF1)
+1. ["Young programmers" (final qualifying 2010)](https://ibb.co/7zKsbF1)
 
-[ACM (Quarter-finals) (2014 – 2015)](https://ibb.co/GPF6R4q)
+2. [ACM (Quarter-finals) (2014 – 2015)](https://ibb.co/GPF6R4q)
 
-[ACM (Quarter-finals) (2015 – 2016)](https://ibb.co/Ntxz89f)
+3. [ACM (Quarter-finals) (2015 – 2016)](https://ibb.co/Ntxz89f)
 
-[Most active students in TUIT (2016)](https://ibb.co/SynWBM8)
+4. [Most active students in TUIT (2016)](https://ibb.co/SynWBM8)
 
+----
+
+# 👨🏻‍💻 PROGRAMMING SKILLS
+
+```HTML```, ```JavaScript```, ```CSS/SCSS```, ```NodeJs```, ```VueJs```, ```VuetifyJs```, ```Java```, ```C/C++```, ```C#```
+
+----
+
+# 🛠 EXPERIENCE
+### 1. Web Test (while studying at school) (2010)
+```
+It was for competition (which called "Yosh dasturchilar" - "Young programmers") 
+among schoolchildren and I won the Republican tour. It was a test program.
+```
+### 2. AR projects for Android using Unity, C# (2016)
+
+### 3. NodeJs app (server side) for “[Трактиръ: Dashboard](https://play.google.com/store/apps/details?id=uz.lahza.dashboard)” (2018)
+
+### 4. NodeJs [telegram messenger bot app](https://github.com/destbest94/educationCenterBot-) for study centre “Kingston” (2019)
 ----
